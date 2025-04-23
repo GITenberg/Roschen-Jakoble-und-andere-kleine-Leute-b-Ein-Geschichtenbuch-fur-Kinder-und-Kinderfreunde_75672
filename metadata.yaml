@@ -1,0 +1,63 @@
+_repo: Roschen-Jakoble-und-andere-kleine-Leute-b-Ein-Geschichtenbuch-fur-Kinder-und-Kinderfreunde_75672
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Bauerle, Amelia
+    aliases:
+    - Bowerley, Amelia Matilda
+    - Bauerle, Amalie Mathilde
+    birthdate: 1873
+    deathdate: 1916
+    gutenberg_agent_id: '58093'
+    url: http://www.gutenberg.org/2009/agents/58093
+    wikipedia: https://en.wikipedia.org/wiki/Amelia_Bauerle
+creator:
+  author:
+    agent_name: Schieber, Anna
+    birthdate: 1867
+    deathdate: 1945
+    gutenberg_agent_id: '37014'
+    url: http://www.gutenberg.org/2009/agents/37014
+    wikipedia: https://de.wikipedia.org/wiki/Anna_Schieber
+description: 'Reading ease score: 88.8 (6th grade). Easy to read.'
+gutenberg_bookshelf: 'Browsing: Children & Young Adult Reading'
+gutenberg_issued: '2025-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75672'
+language: de
+pgterms:marc905: 20230319033339schieber
+pgterms:marc906: '1923'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aStuttgart :$bVerlag von D. Gundert, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories, German'
+- !lcc 'PZ'
+- GITenberg
+summary: '"Röschen, Jaköble und andere kleine Leute" by Anna Schieber is a children''s
+  storybook written in the early 20th century. This collection features charming tales
+  that explore themes of kindness, generosity, and childhood adventures, centered
+  around the titular characters, Röschen and Jaköble, who experience various life
+  lessons and encounters that resonate with young readers.  At the start of the book,
+  we are introduced to Röschen, a cheerful child living in a modest home on the edge
+  of a village. Despite her family''s poverty, Röschen finds joy in her surroundings
+  and in helping others, as demonstrated when she shares her bread with a hungry old
+  man, much to her mother’s chagrin. The narrative establishes her kindhearted nature
+  as she navigates friendships and small adventures with local children, including
+  a playful exchange to retrieve a lost silver watch and a plan to surprise her mother
+  on her birthday with hidden gifts. This opening section sets a tone of warmth and
+  innocence, inviting readers into a world where simple actions embody larger virtues
+  of love and compassion. (This is an automatically generated summary.)'
+tableOfContents: Was das Röschen zu verschenken hatte -- Die Geschichte vom dummen
+  Frieder -- Wer die Mutter am liebsten hatte -- Vom Jaköble, der nicht »Ja« sagen
+  konnte -- Kätterles Christbaum -- Die Gottswillenkinder -- Zweierlei Reichtum --
+  Gretels Ferientage -- Wie Heini den Rückweg fand -- Ein Ersatz -- Eine Reise in
+  die Welt -- Die Botenflori -- Augenblicklich -- Angelika -- In die Sonne -- Aus
+  dürrem Erdreich.
+title: 'Röschen, Jaköble und andere kleine Leute : $b Ein Geschichtenbuch für Kinder
+  und Kinderfreunde'
+url: http://www.gutenberg.org/ebooks/75672
